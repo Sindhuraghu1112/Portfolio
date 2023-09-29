@@ -1,0 +1,61 @@
+.gradient-background {
+    /* background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite; */
+    background: linear-gradient(-45deg, #8DDFCB,  #23a6d5, #23d5ab);
+	      background-size: 400% 400%;
+	      animation: gradient 30s ease infinite;
+          margin-top: 0;
+   
+}
+.Sindhu
+{
+    border-radius: 100%;
+}
+#name
+{
+    display: flex;
+    color:black;
+    justify-content: center;
+}
+#engineer
+{
+    
+    display: flex;
+    color:black;
+    justify-content: center;
+}
+#Education
+{
+    background-color:#E4F1FF ;
+   
+}
+#Skills
+{
+    background-color: #E4F1FF;
+    
+}
+#Projects
+        {
+          width:100%;
+          font-size: 1.5rem;
+          background-color: #E4F1FF;
+           
+          
+        }
+.bg
+        {
+          
+          background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;
+        color:white;  
+        }
+#foot
+{
+    font-size: medium;
+   
+        
+        
+    
+}
